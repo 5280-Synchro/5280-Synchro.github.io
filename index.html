@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+  <title>5280 Synchro</title>
+</head>
+
+<body>
+  <header><img src="./assets/5280_synchro-web.svg" height="50" /></header>
+  <article>
+    <div class="content-wrapper">
+      <div class="slideshow-wrapper">
+        <div class="list-wrapper">
+          <ul class="list">
+            <li class="item">
+              <div class="content"><img class="slideshow" src="./images/image-slideshow-1.jpg" /></div>
+            </li>
+            <li class="item">
+              <div class="content"><img class="slideshow" src="./images/image-slideshow-2.jpg" /></div>
+            </li>
+            <li class="item">
+              <div class="content"><img class="slideshow" src="./images/image-slideshow-4.jpg" /></div>
+            </li>
+            <li class="item">
+              <div class="content"><img class="slideshow" src="./images/image-slideshow-5.jpg" /></div>
+            </li>
+          </ul>
+          <button onclick="handleClick('previous')" class="button button--previous" type="button">
+            <span class="material-icons">
+              chevron_left
+            </span>
+          </button>
+          <button onclick="handleClick('next')" class="button button--next" type="button">
+            <span class="material-icons">
+              chevron_right
+            </span></button>
+        </div>
+      </div>
+      <div id="main-content">
+        <p>5280 Synchro is a private, non-profit, Artistic Swimming Team based in Boulder, Colorado, offering recreational and competitive programs. We are a member of USA Artistic Swimming and compete in local, regional, and national competitions. We have a history of placing in the top ten at the Age Group National Championship and consistently qualifying for National Competitions.</p>
+<p>Our team strives to promote the values of good sportsmanship, physical and mental health, and a sense of community both within our team and with our local community.</p>
+<p>Our goal is to build mentally strong athletes in and out of the pool that continues throughout adulthood. Each athlete will learn and practice artistic swimming skills and routines throughout the season. Learning to maintain a strong commitment to their teammates, personal responsibility and a strong work ethic in an atmosphere of dedication and fun.</p>
+<p>5280 Synchro practices from September through May (June for Junior Olympic athletes) in the Boulder, Colorado area located at the base of the Flatirons Mountains.</p>
+<p>5280 Synchro is a member of the <a href="https://www.rockymountainsynchro.org/">Rocky Mountain Synchronized Swimming Association</a> and <a href="https://www.usaartisticswim.org/">USA Artistic Swimming</a>.</p>
+<p>We warmly welcome new members to join us at any time throughout the season!</p>
+<h1>Contact Us</h1>
+<p>Contact us via email at <a href="mailto:admin@5280synchro.com">admin@5280synchro.com</a> and follow us on <a href="http://facebook.com">Facebook</a> and
+<a href="http://snapchat.com">Snapchat</a>.</p>
+
+      </div>
+    </div>
+  </article>
+  <footer>
+    <p>
+      <span>5280 Synchro</span>
+      <a class="social" href="mailto:admin@5280synchro.com"><i class="fas fa-envelope"></i></a>
+      <a class="social" href="https://instagram.com"><i class="fab fa-instagram"></i></a>
+      <a class="social" href="https://facebook.com"><i class="fab fa-facebook"></i></a>
+    </p>
+  </footer>
+</body>
+<script>
+  const list = document.querySelector(".list");
+
+  // We want to know the width of one of the items. We'll use this to decide how many pixels we want our carousel to scroll.
+  const item = document.querySelector(".item");
+  const itemWidth = item.offsetWidth-1;
+
+  function handleClick(direction) {
+    // Based on the direction we call `scrollBy` with the item width we got earlier
+    if (direction === "previous") {
+      list.scrollBy({ left: -itemWidth, behavior: "smooth" });
+    } else {
+      list.scrollBy({ left: itemWidth, behavior: "smooth" });
+    }
+  }
+</script>
+
+</html>
