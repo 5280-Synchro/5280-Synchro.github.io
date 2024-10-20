@@ -39,7 +39,7 @@ $ npm ci
 $ npm run dev
 ```
 
-And a development server will be started on `localhost:8000`.
+And a development server will be started on `localhost:8080`.
 
 If you need to change web hosts, you can run the build command:
 
