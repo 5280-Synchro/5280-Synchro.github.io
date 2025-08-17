@@ -3,6 +3,12 @@ title: 5280 Synchro
 layout: 'layouts/site.html'
 ---
 
+# *News*
+
+Aug 16, 2025 - Now's your chance to try Schynro!  Join us at 9:00am at the Elks Pool & Patio, [3975 28th St, Boulder, CO](https://maps.app.goo.gl/NRjCC8MCF38cwhpi9) on Sunday, August 24th or on Sunday, September 7th.  This is your change to meet some of our athletes, get to know our coach, ask questions and even learn part of a routine!
+
+# About Us
+
 5280 Synchro is a private, non-profit, Artistic Swimming Team based in Boulder, Colorado, offering recreational and competitive programs. We are a member of USA Artistic Swimming and compete in local, regional, and national competitions. We have a history of placing in the top ten at the Age Group National Championship and consistently qualifying for National Competitions. 
 
 Our team strives to promote the values of good sportsmanship, physical and mental health, and a sense of community both within our team and with our local community.
