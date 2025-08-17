@@ -5,7 +5,9 @@ layout: 'layouts/site.html'
 
 # *News*
 
-Aug 16, 2025 - Now's your chance to try Schynro!  Join us at 9:00am at the Elks Pool & Patio, [3975 28th St, Boulder, CO](https://maps.app.goo.gl/NRjCC8MCF38cwhpi9) on Sunday, August 24th or on Sunday, September 7th.  This is your change to meet some of our athletes, get to know our coach, ask questions and even learn part of a routine!
+Aug 16, 2025 - Now's your chance to try Schynro!  Join us at 9:00am at the Elks Pool & Patio, [3975 28th St, Boulder, CO](https://maps.app.goo.gl/NRjCC8MCF38cwhpi9) on Sunday, August 24th or on Sunday, September 7th.  This is your chance to meet some of our athletes, get to know our coach, ask questions and even learn part of a routine!
+
+[Register here](https://docs.google.com/forms/d/e/1FAIpQLSf5lzibkwWQx1LkI_FbFRZxW9irSNIZ8qXBK5FjwqXhCJHMdQ/viewform), or just show up.  Registration is optional but helps us better plan the event.
 
 # About Us
 
