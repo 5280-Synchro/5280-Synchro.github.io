@@ -19,12 +19,11 @@ Our goal is to build mentally strong athletes in and out of the pool that contin
 
 5280 Synchro practices from September through May (June for Junior Olympic athletes) in the Boulder, Colorado area located at the base of the Flatirons Mountains. 
 
-5280 Synchro is a member of the [Rocky Mountain Synchronized Swimming Association](https://www.rockymountainsynchro.org/) and [USA Artistic Swimming](https://www.usaartisticswim.org/).
+5280 Synchro is a member of the [Rocky Mountain Artistic Swimming Association](https://www.rockymountainsynchro.org/) and [USA Artistic Swimming](https://www.usaartisticswim.org/).
 
 We warmly welcome new members to join us at any time throughout the season!
 
 # Contact Us
 
-Contact us via email at <a href="mailto:admin@5280synchro.com">admin@5280synchro.com</a> and follow us on [Facebook](http://facebook.com) and
-[Snapchat](http://snapchat.com).
+Contact us via email at <a href="mailto:admin@5280synchro.com">admin@5280synchro.com</a> and follow us on social media. 
 
